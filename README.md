@@ -69,7 +69,7 @@ The system automated data ingestion, cleaning, anomaly detection, and visualizat
 
 <div align="center">
   <img src="images/OP_linkedin.png" width="450"/>
-  <img src="images/OP_pinterest.png" width="480"/>
+  <img src="images/OP_pinterest.png" width="450"/>
 </div>
 ---
 
