@@ -53,7 +53,6 @@ The system automated data ingestion, cleaning, anomaly detection, and visualizat
 
 <div align="center">
   <img src="images/OP_Overview.png" alt="OpenRep Analytics Dashboard Overview" width="600"/>
-  <p><em>Prototype dashboard integrating multi-platform KPIs with anomaly detection.</em></p>
 </div>
 
 - **Anomaly Detection:** Automatically flags metric spikes/drops (engagement, impressions, profile views).  
@@ -64,10 +63,14 @@ The system automated data ingestion, cleaning, anomaly detection, and visualizat
   - Cross-platform KPI comparisons  
 
 <div align="center">
-  <img src="images/OP_Instagram.png" alt="Instagram Anomaly Detection" width="450"/>
-  <img src="images/OP_X.png" alt="Twitter Engagement Trends" width="480"/>
+  <img src="images/OP_Instagram.png" width="450"/>
+  <img src="images/OP_X.png" width="480"/>
 </div>
 
+<div align="center">
+  <img src="images/OP_linkedin.png" width="450"/>
+  <img src="images/OP_pinterest.png" width="480"/>
+</div>
 ---
 
 ### 📈 Key Findings
